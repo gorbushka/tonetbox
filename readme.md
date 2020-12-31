@@ -6,7 +6,9 @@
 4. Define SYNTAX fo the device (supported ios or nxos)
 5. Change netbox server
 
-```usage: parse.py [-h] -s SYNTAX [-did DID] [-p] conf_file
+```
+
+usage: parse.py [-h] -s SYNTAX [-did DID] [-p] conf_file
 
 Parse config and import to Netbox
 
